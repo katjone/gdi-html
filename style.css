@@ -1,0 +1,67 @@
+body {
+    background-color:#defae8;
+    font-size: 16px;
+    font-family: 'Krona One', sans-serif;
+  }
+
+p {
+    color:blue;
+
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Verdana", sans-serif;
+    
+}
+
+p em{
+    color: yellow;
+}
+
+h1 {
+    color:purple;
+    font-size: 5em;
+    font-style: italic;
+    font-family: "Impact", sans-serif;
+}
+
+h2 {
+    color: hotpink;
+    font-family: "Impact", sans-serif;
+}
+
+li {
+    font-style: italic;
+    font-size: 15px;
+}
+
+ul li strong {
+    color: orange;
+}
+
+a:hover, a:focus, a:active {
+    color: red;
+
+}
+
+p em {
+    font-weight: bold;
+    color:white;
+}
+
+
+
+p:hover {
+    background-color: green;
+}
+
+.important {
+color:orangered;
+}
+
+.warning {
+    color: red;
+  }
+
+.This {
+    color: blue;
+}
